@@ -1,7 +1,7 @@
 # Contact List :smiley:
 ### Link: https://jasonlee-cp.github.io/contact-list/
 
-* The contact list offers you functions to add your friends to the card deck. The contact list puts the name card into deck in an **alphabetical** order. Each card section always remains alphabetically sorted for each add/remove operation.
+* The contact list made with **vanila javascript** offers you functions to add your friends to the card deck. The contact list puts the name card into deck in an **alphabetical** order. Each card section always remains alphabetically sorted for each add/remove operation.
 
 <img src="img/1.png" style="width:100px; height:100px;"/>
 
